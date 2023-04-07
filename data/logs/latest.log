@@ -1,2 +1,3 @@
-[00:59:05] [Server thread/INFO]: Haodeslys lost connection: Disconnected
-[00:59:05] [Server thread/INFO]: Haodeslys left the game
+[02:44:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fcc6a72[id=<null>,name=shepan,properties={},legacy=false] (/149.102.143.151:42032) lost connection: Disconnected
+[05:05:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@26f55d41[id=<null>,name=shepan,properties={},legacy=false] (/149.102.143.151:45452) lost connection: Disconnected
+[10:31:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@7994a682[id=<null>,name=shepan,properties={},legacy=false] (/149.102.143.151:34002) lost connection: Disconnected
