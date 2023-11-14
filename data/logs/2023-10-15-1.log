@@ -1,0 +1,1 @@
+[17:31:12] [Server thread/INFO]: /109.123.240.84:52790 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(18) + length(8) exceeds writerIndex(19): PooledUnsafeDirectByteBuf(ridx: 18, widx: 19, cap: 19)
